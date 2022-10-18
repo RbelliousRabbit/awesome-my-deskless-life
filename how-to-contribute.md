@@ -2,7 +2,7 @@
 
 As a Free and Open Source project, your modifications will improve `awesome-my-deskless-life` for every user.  
 As our project is hosted on GitHub, the contributions are proposed with Pull Requests.  
-See [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)and [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)for information about Pull Requests.
+See [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for information about Pull Requests.
 
 - 추가하기 전에 중복된 카페가 목록에 있는지 검색합니다.
 - 분류 기준에 맞게 카페를 추가하고 Pull Request를 생성합니다.
